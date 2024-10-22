@@ -23,7 +23,7 @@ This repository is the official PyTorch implementation of cuADA for cross-modal 
 - [ ] **Release Training Code for CT2MR&MR2CT.**
 
 
-## 引用
-如果这个仓库对你有帮助，请考虑引用我们的工作:
+## Citation
+If this repository is helpful to you, please consider citing our work:
 ```
 ```
