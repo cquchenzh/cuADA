@@ -17,7 +17,7 @@ This repository is the official PyTorch implementation of cuADA for cross-modal 
 
 
 ## ToDo
-- [ ] **Release Active Learning Strategy Code (maybe two days after the article is accepted).**
+- [ ] **Release Active Learning Strategy Code (maybe two days after the paper is accepted).**
 - [ ] **Release Inference Code of cuADA, Model Weights, Data Links.**
 - [ ] **Release Training Code for C02LGE.**
 - [ ] **Release Training Code for CT2MR&MR2CT.**
