@@ -6,7 +6,7 @@ This repository is the official PyTorch implementation of cuADA for cross-modal 
 
 <p align="center">
     <br>
-    <img src="assets/structure.png" width="100%"/>
+    <img src="assets/structure1.png" width="100%"/>
     <br>
 </p>
 
