@@ -4,11 +4,7 @@
 
 This repository is the official PyTorch implementation of cuADA for cross-modal cardiac segmentation.
 
-<p align="center">
-    <br>
-    <img src="assets/structure1.png" width="100%"/>
-    <br>
-</p>
+![结构图](assets/structure1.png)
 
 ## You might also be interested in
 [Multi-task oriented diffusion model for mortality prediction in shock patients with incomplete data](https://doi.org/10.1016/j.inffus.2023.102207)
